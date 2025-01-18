@@ -6,3 +6,6 @@ Task2:
 created branch feature_add from feature and added addition func
 Task3;
 created branch feature_sub from feature and added sub func.
+Task 4:
+created branch feature_mul from feature and added mul func.
+
