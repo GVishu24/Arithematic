@@ -11,3 +11,4 @@ created branch feature_mul from feature and added mul func.
 Task 5:
 created branch feature_div from feature and added div func.
 
+resolved all merge conflicts and merged all function branches to feature successfully!!
